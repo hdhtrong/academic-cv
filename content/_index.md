@@ -38,11 +38,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on recommender systems, multimodal AI, healthcare AI, and foundation models. I am passionate about developing intelligent systems that bridge cutting-edge research and real-world applications.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I investigate how diverse data modalities can be integrated to improve recommendation, prediction, and decision-making. My recent interests include sequential recommendation, multimodal learning, and AI for healthcare..
 
-        Please reach out to collaborate 😃
+        I regularly study and reproduce research from leading conferences and share insights through technical projects and research notes. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
