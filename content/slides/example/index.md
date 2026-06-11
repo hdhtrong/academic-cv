@@ -377,7 +377,7 @@ Edit the `branding:` section in your slide's front matter (top of file).
 ```yaml
 branding:
   logo:
-    filename: "your-logo.svg"  # Must be in assets/media/
+    filename: "slides-logo.svg"  # Must be in assets/media/
     position: "top-right"
     width: "60px"
 ```

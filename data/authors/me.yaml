@@ -40,7 +40,11 @@ interests:
   - System Design
   - Recommender Systems
   - Multimodal AI
+  - Explainable AI
+  - Foundation Models
   - AI Ethics
+  - Reading/Exercising
+  - Learning
 
 education:
 
@@ -57,36 +61,46 @@ experience:
   - role: Software Engineer
     org: HCM-UTE
     start: 2017-12-01
+    end: 2020-02-28
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Built and maintained scalable web applications using Java, ASP.NET MVC, SQL Server, MySQL and MongoDB.
 
+  - role: Software Engineer
+    org: HCM-IU
+    start: 2020-03-02
+    summary: |
+      Built and maintained scalable web applications using ASP.NET MVC, ASP.NET Core Web API, SQL Server and MySQL. 
+
+  - role: Research Assistant
+    org: HCM-IU
+    start: 2022-03-02
+    summary: |
+      Conducted research on recommender systems. Published papers in top-tier conferences and journals.
 skills:
   - name: Technical Skills
     items:
-      - label: Python
-        level: 5
       - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
-  - name: Research & Communication
+      - label: Web Development
+        level: 5
+  - name: Research Skills
     items:
       - label: Academic Writing
-        level: 5
+        level: 4
       - label: Conference Presentations
         level: 4
-      - label: Grant Proposals
+  - name: Hobbies
+    items:
+      - label: Reading
+        level: 5
+      - label: Badminton
+        level: 5
+  - name: Soft Skills
+    items:
+      - label: Problem Solving
         level: 4
+      - label: Team Collaboration
+        level: 5
 
 languages:
   - name: Vietnamese
@@ -94,7 +108,7 @@ languages:
     label: Native
   - name: English
     level: 4
-    label: Fluent
+    label: 7.5 IELTS
 
 awards:
   - title: Best Paper Award
