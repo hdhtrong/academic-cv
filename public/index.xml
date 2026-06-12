@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
       <title></title>
@@ -166,6 +166,119 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;toc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nn&#34;&gt;---&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-attention Based Sequential Recommendation Systems Improved with Reviews Topic Modeling in e-Commerce Transactions</title>
+      <link>http://localhost:1313/publications/topic-modeling-sasrec/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/topic-modeling-sasrec/</guid>
+      <description>
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -476,9 +589,9 @@ Done!
     
     <item>
       <title>Self-Attentive Sequential Recommendation Models Enriched with More Features</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>http://localhost:1313/publications/enriched-sasrec/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>http://localhost:1313/publications/enriched-sasrec/</guid>
       <description>
 
 
@@ -575,8 +688,7 @@ Done!
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -1897,7 +2009,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-643795182&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-987162345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1915,7 +2027,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-643795182&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-987162345&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2327,300 +2439,6 @@ Crash --&gt; [*]
   
 
 
-
-
-
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    &lt;span &gt;&lt;a href=&#34;&#34;&gt;Mr. Trong Ho&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2019).
-  &lt;a href=&#34;http://localhost:1313/publications/preprint/&#34; class=&#34;underline&#34;&gt;An example preprint / working paper&lt;/a&gt;.
-  
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://arxiv.org/abs/1512.04133v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        Preprint
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/HugoBlox/kit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5&#34;/&gt;&lt;/svg&gt;
-        Code
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://www.slideshare.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6&#34;/&gt;&lt;/svg&gt;
-        Slides
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
-        Dataset
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0&#34;/&gt;&lt;/svg&gt;
-        Poster
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        Source Document
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://youtube.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://example.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        Custom Link
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://arxiv.org/abs/1512.04133v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        Preprint
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
 &lt;p&gt;You can also use the default view by omitting the view parameter:&lt;/p&gt;
 
 
@@ -2646,7 +2464,7 @@ Crash --&gt; [*]
   
 
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    &lt;span &gt;&lt;a href=&#34;&#34;&gt;Mr. Trong Ho&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+    &lt;span &gt;Mr. Trong Ho&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
           &lt;button
             @mouseenter=&#34;tooltip = true&#34;
             @mouseleave=&#34;tooltip = false&#34;
@@ -2675,7 +2493,7 @@ Crash --&gt; [*]
             Equal contribution
             &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
           &lt;/div&gt;
-        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;&#34;&gt;Sang Thi Thanh Nguyen&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;http://localhost:1313/authors/thi-thanh-sang-nguyen/&#34;&gt;Thi Thanh Sang Nguyen&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
           &lt;button
             @mouseenter=&#34;tooltip = true&#34;
             @mouseleave=&#34;tooltip = false&#34;
@@ -2704,16 +2522,10 @@ Crash --&gt; [*]
             Equal contribution
             &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
           &lt;/div&gt;
-        &lt;/span&gt;
+        &lt;/span&gt;.
   &lt;/span&gt;
-  (2024).
-  &lt;a href=&#34;http://localhost:1313/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;Self-Attentive Sequential Recommendation Models Enriched with More Features&lt;/a&gt;.
-  &lt;em&gt;ICDLT&lt;/em&gt;.
-  
-    &lt;span class=&#34;ml-1&#34;&gt;&lt;span class=&#34;inline-flex items-center gap-1 text-xs font-medium text-violet-900 dark:text-violet-200&#34; title=&#34;Online Presentation — ICDLT · 2024&#34;&gt;
-      &lt;span class=&#34;w-3 h-3 flex-shrink-0&#34;&gt;&lt;svg viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-      &lt;span&gt;Online Presentation&lt;/span&gt;
-    &lt;/span&gt;&lt;/span&gt;
+  &lt;a href=&#34;http://localhost:1313/publications/enriched-sasrec/&#34;&gt;Self-Attentive Sequential Recommendation Models Enriched with More Features&lt;/a&gt;.
+  &lt;em&gt;ICDLT&lt;/em&gt;,2024.
   
 
   
@@ -2837,36 +2649,7 @@ Crash --&gt; [*]
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publications/conference-paper/conference-paper.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/conference-paper/cite.bib&#34;&gt;
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/enriched-sasrec/cite.bib&#34;&gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9 9 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9 9 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
         &lt;span&gt;Cite&lt;/span&gt;
       &lt;/button&gt;
@@ -2905,7 +2688,6 @@ Crash --&gt; [*]
   &lt;/div&gt;
   
 
-  
   
 &lt;/div&gt;
 
@@ -3175,14 +2957,6 @@ data.head()
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>✅ Manage your projects</title>
       <link>http://localhost:1313/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
@@ -3258,12 +3032,60 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publications/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint/</guid>
+      <title>An Ontology-Based Question Answering System for University Admissions Advising</title>
+      <link>http://localhost:1313/publications/ontology-chatbot/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ontology-chatbot/</guid>
       <description>&lt;p&gt;This work is driven by the results in my 
  on LLMs.&lt;/p&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 
 
 
@@ -3312,8 +3134,7 @@ Parallel 4   :         des6, after des4, 1d
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -4316,112 +4137,6 @@ Navigate down for sub-topics!&lt;/p&gt;
  or 
 !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want to contribute?&lt;/strong&gt; Hugo Blox is open source! 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publications/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/journal-article/</guid>
-      <description>
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
-     data-callout=&#34;note&#34; 
-     data-callout-metadata=&#34;&#34;&gt;
-  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
-    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
-    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
-     data-callout=&#34;note&#34; 
-     data-callout-metadata=&#34;&#34;&gt;
-  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
-    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
-    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
 </description>
     </item>

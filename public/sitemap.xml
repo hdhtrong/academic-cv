@@ -14,6 +14,10 @@
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/experience/</loc><lastmod>2026-06-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/</loc><lastmod>2026-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -31,6 +35,16 @@
     <loc>http://localhost:1313/tags/jupyter/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/open-science/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publication_types/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/enriched-sasrec/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/sequential-recommendation-models/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/tutorials/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -66,25 +80,17 @@
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/hugoblox-kit/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/publications/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/article/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/large-language-models/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/events/example/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -97,10 +103,6 @@
     <loc>http://localhost:1313/publication_types/article-journal/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/source-themes/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
   <url>

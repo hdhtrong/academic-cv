@@ -6,7 +6,7 @@ title: 'Self-Attentive Sequential Recommendation Models Enriched with More Featu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Sang Thi Thanh Nguyen
+  - Thi Thanh Sang Nguyen
 
 # Author notes (optional)
 author_notes:
@@ -33,9 +33,9 @@ open_access: true
 license: CC-BY-4.0
 
 # Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
-awards:
-  - name: "Online Presentation"
-    level: selected
+# awards:
+#   - name: "Online Presentation"
+#     level: selected
 
 # Funders and grants. Required by many funders for compliance reporting.
 funding:
@@ -96,4 +96,4 @@ slides: ""
 > [!NOTE]
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
