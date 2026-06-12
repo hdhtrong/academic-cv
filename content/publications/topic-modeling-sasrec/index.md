@@ -9,7 +9,7 @@ author_notes:
 date: "2025-11-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-11-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,8 +35,8 @@ abstract: The growing volume of data demands intelligent systems to process comp
 summary:  This research proposes a hybrid model that integrates the strengths of both approaches to improve recommendation accuracy in e-commerce transactions.
 
 tags:
-- Ontology
-featured: true
+- Sequential Recommendation Models
+featured: false
 
 hugoblox:
   ids:

@@ -40,7 +40,7 @@ abstract: Question-Answer systems are now very popular and crucial to support hu
 summary: his study proposes a novel chatbot model involving ontology to generate efficient responses automatically. A case study of admissions advising at the International University–VNU HCMC is taken into account in the proposed chatbot. A domain ontology is designed and built based on the domain knowledge of university admissions using Protégé.
 
 tags:
-- Sequential Recommendation Models
+- Ontology
 
 featured: false
 
